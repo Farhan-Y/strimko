@@ -121,9 +121,6 @@ print('========\nAfter solving: \n ')
 print(x)
 assert x.is_solved()
 draw(x) # Display solved board
-
-To run other examples, uncomment the relevant sections in main.py.
-
 ```
 
 To run other examples, uncomment the relevant sections in main.py.
