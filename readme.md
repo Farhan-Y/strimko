@@ -124,11 +124,6 @@ draw(x) # Display solved board
 
 To run other examples, uncomment the relevant sections in main.py.
 
-Dependencies
-numpy (used in board.py and gui.py)
-matplotlib (used in gui.py)
-networkx (used in gui.py)
-You can typically install these using pip:
 ```
 
 To run other examples, uncomment the relevant sections in main.py.
